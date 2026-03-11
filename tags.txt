@@ -1,0 +1,402 @@
+[
+    {
+        "category": "Cinéma",
+        "parent": null
+    },
+    {
+        "category": "Wikipédia:ébauche cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par thème",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par continent",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par pays",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par langue",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par ville",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Adaptation au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Analyse et esthétique du cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Animal au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma dans l'art et la culture",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Association ou organisme lié au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma dans la bande dessinée",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma par culture",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Émission de télévision sur le cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Enseignement du cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Place des femmes dans le cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Festival, cérémonie ou prix cinématographique",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Filière cinématographique",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Film",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Filmographie",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Genre cinématographique",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Histoire du cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Incendie dans un cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Cinéma indépendant",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Jeu sur le cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Lieu de tournage",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Lieu lié au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Liste en rapport avec le cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Média consacré au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Métier de l'audiovisuel",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Musique de film",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Personnage de cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Personnalité liée au cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Réplique de cinéma",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Technique cinématographique",
+        "parent": "Cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche chef décorateur",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche chronologie du cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche compositeur de musique de film",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche directeur de la photographie",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche distributeur de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche enseignement du cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche festival de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche film",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche ingénieur du son",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche monteur",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche pornographie",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche producteur de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche réalisateur",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche récompense cinématographique",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche revue de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche salle de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche scénariste",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche société de production de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche studio de cinéma",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Wikipédia:ébauche technique cinématographique",
+        "parent": "Wikipédia:ébauche cinéma"
+    },
+    {
+        "category": "Film par thème",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Cinéma animalier",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Attraction et parc de loisirs au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Automobile au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Camion au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Jouet au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Labyrinthe au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "LGBT au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Littérature au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Cinéma maritime",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Cinéma de montagne",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Film sur la motocyclette",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Motocyclette au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Politique au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Rose au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Théâtre au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Ville au cinéma",
+        "parent": "Cinéma par thème"
+    },
+    {
+        "category": "Festival de cinéma par continent",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Récompense de cinéma par continent",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Afrique",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Amérique",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Antarctique",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Asie",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Europe",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Océanie",
+        "parent": "Cinéma par continent"
+    },
+    {
+        "category": "Cinéma en Afrique par pays",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Cinéma en Amérique par pays",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Cinéma en Asie par pays",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Cinéma en Europe par pays",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Cinéma en Océanie par pays",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Cinéma national",
+        "parent": "Cinéma par pays"
+    },
+    {
+        "category": "Film par langue",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma anglophone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma arabophone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma bengali",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma bhodjpouri",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma en catalan",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma foulaphone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma francophone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma germanophone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma haoussaphone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma hindi",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma hispanophone",
+        "parent": "Cinéma par langue"
+    },
+    {
+        "category": "Cinéma italophone",
+        "parent": "Cinéma par langue"
+    }
+]

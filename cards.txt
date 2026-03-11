@@ -1,0 +1,126 @@
+[
+    {
+        "title": "Godot",
+        "url": "https://fr.m.wikipedia.org/wiki/Godot",
+        "intro": "Le nom Godot peut faire référence à :Godot, personnage éponyme de la pièce de théâtre En attendant Godot ;Godot, un personnage de la série de jeux vidéo Ace Attorney ;Godot (en), groupe de synthpop anglais ;Godot, un moteur de jeu libre ;Godot, le premier tunnelier de The Boring Company d'Elon...",
+        "estimated_duration": "1 min",
+        "estimated_difficulty": 4,
+        "tags": [
+            "Homonymie"
+        ]
+    },
+    {
+        "title": "Ace Attorney",
+        "url": "https://fr.m.wikipedia.org/wiki/Ace_Attorney",
+        "intro": "Ace Attorney (逆転裁判, Gyakuten Saiban) est une série de jeux d'aventure développée et éditée par Capcom s'inspirant grandement des caractéristiques des visual novels — romans vidéoludiques en français — au point qu'une grande partie des fans de la série considèrent que ces jeux en sont. Le premier épi...",
+        "estimated_duration": "12 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Ace Attorney",
+            "Manga des années 2000",
+            "Manga paru dans le Monthly Young Magazine",
+            "Manga paru dans le Weekly Young Magazine",
+            "Série de jeux vidéo Capcom"
+        ]
+    },
+    {
+        "title": "Elon Musk",
+        "url": "https://fr.m.wikipedia.org/wiki/Elon_Musk",
+        "intro": "Elon Musk (prononcé en anglais : /ˈiːlɒn ˈmʌsk/), né le 28 juin 1971 à Pretoria (Afrique du Sud), est un entrepreneur, homme d'affaires et homme politique de nationalité sud-africaine, canadienne et américaine. Milliardaire, il est en 2022 et depuis 2024 la personne la plus riche du monde.Elon Musk...",
+        "estimated_duration": "72 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Catégorie Commons avec lien local identique sur Wikidata",
+            "Chef d'entreprise américain",
+            "Chef d'entreprise canadien",
+            "Chef d'entreprise sud-africain",
+            "Designer industriel"
+        ]
+    },
+    {
+        "title": "En attendant Godot",
+        "url": "https://fr.m.wikipedia.org/wiki/En_attendant_Godot",
+        "intro": "En attendant Godot est une pièce de théâtre en deux actes, écrite en français en 1948 par Samuel Beckett et publiée en 1952 à Paris aux Éditions de minuit. Une des particularités de la pièce vient du fait que le nombre de scènes n'est ni décompté ni annoncé. La première page du manuscrit français po...",
+        "estimated_duration": "10 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "Catégorie Commons avec lien local identique sur Wikidata",
+            "Pièce de théâtre de 1953",
+            "Pièce de théâtre de Samuel Beckett",
+            "Pièce de théâtre française",
+            "Pièce de théâtre irlandaise"
+        ]
+    },
+    {
+        "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
+        "url": "https://fr.m.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_-_Trials_and_Tribulations",
+        "intro": "Phoenix Wright: Ace Attorney - Trials and Tribulations (逆転 裁判 3, Gyakuten Saiban 3) est un jeu vidéo d'aventure et troisième volet de la série Ace Attorney, développé par Capcom Production Studio 4 et édité par l'entreprise japonaise Capcom. Il sort sur Game Boy Advance en 2004 au Japon. Le jeu est ...",
+        "estimated_duration": "6 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Ace Attorney",
+            "Jeu Android",
+            "Jeu Game Boy Advance",
+            "Jeu Nintendo 3DS",
+            "Jeu Nintendo DS"
+        ]
+    },
+    {
+        "title": "15 septembre",
+        "url": "https://fr.m.wikipedia.org/wiki/15_septembre",
+        "intro": "Le 15 septembre est le 258e jour de l'année du calendrier grégorien, 259e lorsqu'elle est bissextile (il en reste ensuite 107).C'était généralement l'équivalent du 29 fructidor du calendrier républicain français, officiellement dénommé jour du marron (le fruit).14 septembre - 15 septembre - 16 se...",
+        "estimated_duration": "17 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "15 septembre",
+            "Catégorie Commons avec lien local identique sur Wikidata"
+        ]
+    },
+    {
+        "title": "16 mars",
+        "url": "https://fr.m.wikipedia.org/wiki/16_mars",
+        "intro": "Le 16 mars est le 75e jour, moins souvent le 76e, de l'année du calendrier grégorien ; il en reste ensuite 290.C'était généralement le 26e jour du mois de ventôse dans le calendrier républicain / révolutionnaire français, officiellement dénommé jour du pissenlit....",
+        "estimated_duration": "34 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "16 mars",
+            "Catégorie Commons avec lien local identique sur Wikidata"
+        ]
+    },
+    {
+        "title": "1942 (jeu vidéo)",
+        "url": "https://fr.m.wikipedia.org/wiki/1942_(jeu_vid%C3%A9o)",
+        "intro": "1942 est un jeu vidéo de type shoot 'em up à défilement vertical sorti en 1984 sur système d'arcade Z80 Based de Capcom, puis porté par la suite sur de nombreuses autres machines. Il s'agit du premier jeu développé par Yoshiki Okamoto pour Capcom.Il a fait l'objet d'un remake en 2008 sur PlayStatio...",
+        "estimated_duration": "2 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "194X",
+            "Identifiant Gaming-History différent sur Wikidata",
+            "Identifiant Killer List of Videogames identique sur Wikidata",
+            "Identifiant MobyGames différent sur Wikidata",
+            "Jeu Amstrad CPC"
+        ]
+    },
+    {
+        "title": "19 février",
+        "url": "https://fr.m.wikipedia.org/wiki/19_f%C3%A9vrier",
+        "intro": "Le 19 février est le 50e jour de l'année du calendrier grégorien (il en reste ensuite 315, 316 lorsqu'elle est bissextile).C'était généralement le 1er ventôse du calendrier républicain ou révolutionnaire français, officiellement dénommé jour du tussilage (une plante). 18 février - 19 février - 20...",
+        "estimated_duration": "34 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "19 février",
+            "Catégorie Commons avec lien local identique sur Wikidata"
+        ]
+    },
+    {
+        "title": "1er décembre",
+        "url": "https://fr.m.wikipedia.org/wiki/1er_d%C3%A9cembre",
+        "intro": "Le 1er décembre est le 335e jour de l'année du calendrier grégorien, 336e lorsqu'elle est bissextile. Il reste ensuite 30 jours avant la fin de l'année civile.C'est généralement le 11 frimaire du calendrier républicain ou révolutionnaire français, officiellement dénommé jour de la cire.Leur équiva...",
+        "estimated_duration": "67 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "1er décembre",
+            "Catégorie Commons avec lien local identique sur Wikidata"
+        ]
+    }
+]
