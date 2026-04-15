@@ -10,6 +10,16 @@
         ]
     },
     {
+        "title": "Ultra Fast Fashion",
+        "url": "https://www.youtube.com/watch?v=c97oyMjcQZ4",
+        "intro": "Vidéo sur la fast fashion.",
+        "estimated_duration": "1 min",
+        "estimated_difficulty": 4,
+        "tags": [
+            "Homonymie"
+        ]
+    },
+    {
         "title": "Ace Attorney",
         "url": "https://fr.m.wikipedia.org/wiki/Ace_Attorney",
         "intro": "Ace Attorney (逆転裁判, Gyakuten Saiban) est une série de jeux d'aventure développée et éditée par Capcom s'inspirant grandement des caractéristiques des visual novels — romans vidéoludiques en français — au point qu'une grande partie des fans de la série considèrent que ces jeux en sont. Le premier épi...",
