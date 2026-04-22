@@ -11,7 +11,7 @@
     },
     {
         "title": "Ultra Fast Fashion",
-        "url": "https://www.youtube.com/watch?v=7ieIyBE9g7A&t=49s",
+        "url": "<iframe width="560" height="315" src="https://www.youtube.com/embed/iyLH4x3lpLg?si=RQ8wBwtWttp2uftO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
         "intro": "Vidéo sur la fast fashion.",
         "estimated_duration": "1 min",
         "estimated_difficulty": 4,
