@@ -1,136 +1,208 @@
 [
     {
-        "title": "Godot",
-        "url": "https://fr.m.wikipedia.org/wiki/Godot",
-        "intro": "Le nom Godot peut faire référence à :Godot, personnage éponyme de la pièce de théâtre En attendant Godot ;Godot, un personnage de la série de jeux vidéo Ace Attorney ;Godot (en), groupe de synthpop anglais ;Godot, un moteur de jeu libre ;Godot, le premier tunnelier de The Boring Company d'Elon...",
-        "estimated_duration": "1 min",
+        "title": "Intelligence artificielle",
+        "url": "https://fr.m.wikipedia.org/wiki/Intelligence_artificielle",
+        "intro": "L'intelligence artificielle (IA) est un ensemble de théories et de techniques visant à réaliser des machines capables de simuler l'intelligence humaine. Le terme a été introduit en 1956 par John McCarthy. Aujourd'hui, l'IA recouvre des domaines comme l'apprentissage automatique, la vision par o...",
+        "estimated_duration": "40 min",
         "estimated_difficulty": 4,
         "tags": [
-            "Homonymie"
+            "Informatique"
         ]
     },
     {
-        "title": "Ultra Fast Fashion",
-        "url": "https://www.youtube.com/watch?v=iyLH4x3lpLg",
-        "intro": "Vidéo sur la fast fashion.",
-        "estimated_duration": "1 min",
-        "estimated_difficulty": 4,
-        "tags": [
-            "Homonymie"
-        ]
-    },
-    {
-        "title": "Ace Attorney",
-        "url": "https://fr.m.wikipedia.org/wiki/Ace_Attorney",
-        "intro": "Ace Attorney (逆転裁判, Gyakuten Saiban) est une série de jeux d'aventure développée et éditée par Capcom s'inspirant grandement des caractéristiques des visual novels — romans vidéoludiques en français — au point qu'une grande partie des fans de la série considèrent que ces jeux en sont. Le premier épi...",
+        "title": "Machine de Turing",
+        "url": "https://fr.m.wikipedia.org/wiki/Machine_de_Turing",
+        "intro": "La machine de Turing est un modèle abstrait de calcul imaginé par Alan Turing en 1936, qui fonde scientifiquement le concept d'algorithme et de programmation. Elle se compose d'un ruban infini divisé en cases et d'une tête de lecture/écriture pilotée par un ensemble fini de règles. Ce modèle est l...",
         "estimated_duration": "12 min",
-        "estimated_difficulty": 3,
+        "estimated_difficulty": 4,
         "tags": [
-            "Ace Attorney",
-            "Manga des années 2000",
-            "Manga paru dans le Monthly Young Magazine",
-            "Manga paru dans le Weekly Young Magazine",
-            "Série de jeux vidéo Capcom"
+            "Informatique"
         ]
     },
     {
-        "title": "Elon Musk",
-        "url": "https://fr.m.wikipedia.org/wiki/Elon_Musk",
-        "intro": "Elon Musk (prononcé en anglais : /ˈiːlɒn ˈmʌsk/), né le 28 juin 1971 à Pretoria (Afrique du Sud), est un entrepreneur, homme d'affaires et homme politique de nationalité sud-africaine, canadienne et américaine. Milliardaire, il est en 2022 et depuis 2024 la personne la plus riche du monde.Elon Musk...",
-        "estimated_duration": "72 min",
+        "title": "Algorithmique",
+        "url": "https://fr.m.wikipedia.org/wiki/Algorithmique",
+        "intro": "L'algorithmique est l'étude et la production de règles et techniques qui sont impliquées dans la définition et la conception d'algorithmes. Un algorithme est une suite finie et non ambiguë d'instructions permettant de résoudre un problème. Ada Lovelace avait écrit le premier algorithme destiné à être...",
+        "estimated_duration": "15 min",
         "estimated_difficulty": 3,
         "tags": [
-            "Catégorie Commons avec lien local identique sur Wikidata",
-            "Chef d'entreprise américain",
-            "Chef d'entreprise canadien",
-            "Chef d'entreprise sud-africain",
-            "Designer industriel"
+            "Informatique"
         ]
     },
     {
-        "title": "En attendant Godot",
-        "url": "https://fr.m.wikipedia.org/wiki/En_attendant_Godot",
-        "intro": "En attendant Godot est une pièce de théâtre en deux actes, écrite en français en 1948 par Samuel Beckett et publiée en 1952 à Paris aux Éditions de minuit. Une des particularités de la pièce vient du fait que le nombre de scènes n'est ni décompté ni annoncé. La première page du manuscrit français po...",
+        "title": "Révolution numérique",
+        "url": "https://fr.m.wikipedia.org/wiki/R%C3%A9volution_num%C3%A9rique",
+        "intro": "La révolution numérique désigne le bouleversement des sociétés causé par l'essor des technologies numériques — informatique, Internet, intelligence artificielle — depuis les années 1970. Elle transforme en profondeur les modes de production, de communication et d'accès à l'information à l'échelle mond...",
         "estimated_duration": "10 min",
         "estimated_difficulty": 2,
         "tags": [
-            "Catégorie Commons avec lien local identique sur Wikidata",
-            "Pièce de théâtre de 1953",
-            "Pièce de théâtre de Samuel Beckett",
-            "Pièce de théâtre française",
-            "Pièce de théâtre irlandaise"
+            "Informatique"
         ]
     },
     {
-        "title": "Phoenix Wright: Ace Attorney - Trials and Tribulations",
-        "url": "https://fr.m.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_-_Trials_and_Tribulations",
-        "intro": "Phoenix Wright: Ace Attorney - Trials and Tribulations (逆転 裁判 3, Gyakuten Saiban 3) est un jeu vidéo d'aventure et troisième volet de la série Ace Attorney, développé par Capcom Production Studio 4 et édité par l'entreprise japonaise Capcom. Il sort sur Game Boy Advance en 2004 au Japon. Le jeu est ...",
-        "estimated_duration": "6 min",
+        "title": "Histoire de l'intelligence artificielle",
+        "url": "https://fr.m.wikipedia.org/wiki/Histoire_de_l%27intelligence_artificielle",
+        "intro": "L'histoire de l'intelligence artificielle débute dans les années 1950 avec les travaux pionniers d'Alan Turing et John McCarthy. Elle traverse plusieurs cycles d'enthousiasme et de désillusion — les fameux «hivers de l'IA» — avant d'aboutir aux révolutions du deep learning à partir des années 2010...",
+        "estimated_duration": "25 min",
         "estimated_difficulty": 3,
         "tags": [
-            "Ace Attorney",
-            "Jeu Android",
-            "Jeu Game Boy Advance",
-            "Jeu Nintendo 3DS",
-            "Jeu Nintendo DS"
+            "Informatique",
+            "Histoire"
         ]
     },
     {
-        "title": "15 septembre",
-        "url": "https://fr.m.wikipedia.org/wiki/15_septembre",
-        "intro": "Le 15 septembre est le 258e jour de l'année du calendrier grégorien, 259e lorsqu'elle est bissextile (il en reste ensuite 107).C'était généralement l'équivalent du 29 fructidor du calendrier républicain français, officiellement dénommé jour du marron (le fruit).14 septembre - 15 septembre - 16 se...",
-        "estimated_duration": "17 min",
+        "title": "Alan Turing",
+        "url": "https://fr.m.wikipedia.org/wiki/Alan_Mathison_Turing",
+        "intro": "Alan Mathison Turing (1912–1954) est un mathématicien et cryptologue britannique dont les travaux fondent scientifiquement l'informatique. Il imagine la machine de Turing en 1936, joue un rôle décisif dans la cryptanalyse d'Enigma pendant la Seconde Guerre mondiale, et formule le célèbre test de Tur...",
+        "estimated_duration": "20 min",
         "estimated_difficulty": 3,
         "tags": [
-            "15 septembre",
-            "Catégorie Commons avec lien local identique sur Wikidata"
+            "Informatique",
+            "Histoire"
         ]
     },
     {
-        "title": "16 mars",
-        "url": "https://fr.m.wikipedia.org/wiki/16_mars",
-        "intro": "Le 16 mars est le 75e jour, moins souvent le 76e, de l'année du calendrier grégorien ; il en reste ensuite 290.C'était généralement le 26e jour du mois de ventôse dans le calendrier républicain / révolutionnaire français, officiellement dénommé jour du pissenlit....",
-        "estimated_duration": "34 min",
+        "title": "Enigma (machine)",
+        "url": "https://fr.m.wikipedia.org/wiki/Enigma_(machine)",
+        "intro": "Enigma est une machine de chiffrement électromécanique utilisée par l'armée allemande durant la Seconde Guerre mondiale. Son déchiffrement par les cryptanalystes alliés, dont Alan Turing à Bletchley Park, a constitué un tournant majeur du conflit. La machine repose sur un système de rotors qui modifie...",
+        "estimated_duration": "13 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Informatique",
+            "Histoire"
+        ]
+    },
+    {
+        "title": "Histoire de la cryptologie",
+        "url": "https://fr.m.wikipedia.org/wiki/Histoire_de_la_cryptographie",
+        "intro": "La cryptologie accompagne l'humanité depuis l'Antiquité : du chiffre de César aux machines Enigma, en passant par la cryptographie arabe médiévale. L'ère moderne a vu naître la cryptographie à clé publique dans les années 1970, révolutionnant la sécurité des communications numériques à l'échelle mond...",
+        "estimated_duration": "18 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Informatique",
+            "Histoire"
+        ]
+    },
+    {
+        "title": "Révolution française",
+        "url": "https://fr.m.wikipedia.org/wiki/R%C3%A9volution_fran%C3%A7aise",
+        "intro": "La Révolution française (1789–1799) est une période de bouleversement politique et social sans précédent. Elle débute avec l'ouverture des États généraux le 5 mai 1789 et s'achève avec le coup d'État de Napoléon Bonaparte le 9 novembre 1799. Elle abolit la monarchie absolue, proclame les droits de l...",
+        "estimated_duration": "55 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Histoire"
+        ]
+    },
+    {
+        "title": "Napoléon Ier",
+        "url": "https://fr.m.wikipedia.org/wiki/Napol%C3%A9on_Ier",
+        "intro": "Napoléon Bonaparte (1769–1821), premier Empereur des Français, est l'une des figures les plus marquantes de l'histoire mondiale. Général prodige de la Révolution, il réforme en profondeur les institutions françaises — Code civil, Légion d'honneur, Banque de France — et étend son empire sur une grande...",
+        "estimated_duration": "65 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Histoire"
+        ]
+    },
+    {
+        "title": "Guerres napoléoniennes",
+        "url": "https://fr.m.wikipedia.org/wiki/Guerres_napol%C3%A9oniennes",
+        "intro": "Les guerres napoléoniennes (1803–1815) sont une série de conflits opposant l'Empire français, dirigé par Napoléon Ier, à plusieurs coalitions européennes. Elles redessinent la carte de l'Europe, diffusent les idéaux révolutionnaires et préfigurent les nationalismes du XIXe siècle. Elles s'achèvent par...",
+        "estimated_duration": "30 min",
+        "estimated_difficulty": 3,
+        "tags": [
+            "Histoire"
+        ]
+    },
+    {
+        "title": "Alan Turing - Enigma, ordinateur et pomme empoisonnée",
+        "url": "https://www.youtube.com/watch?v=7dpFeXV_hqs",
+        "intro": "Vidéo de la chaîne e-penser retraçant le destin d'Alan Turing : l'invention de l'ordinateur moderne, le déchiffrement de la machine Enigma qui a sauvé des millions de vies, et la tragique fin de sa vie liée à sa persécution pour homosexualité. Un portrait fascinant à la croisée de l'informatique et d...",
+        "estimated_duration": "25 min",
         "estimated_difficulty": 2,
         "tags": [
-            "16 mars",
-            "Catégorie Commons avec lien local identique sur Wikidata"
+            "Informatique",
+            "Histoire"
         ]
     },
     {
-        "title": "1942 (jeu vidéo)",
-        "url": "https://fr.m.wikipedia.org/wiki/1942_(jeu_vid%C3%A9o)",
-        "intro": "1942 est un jeu vidéo de type shoot 'em up à défilement vertical sorti en 1984 sur système d'arcade Z80 Based de Capcom, puis porté par la suite sur de nombreuses autres machines. Il s'agit du premier jeu développé par Yoshiki Okamoto pour Capcom.Il a fait l'objet d'un remake en 2008 sur PlayStatio...",
-        "estimated_duration": "2 min",
-        "estimated_difficulty": 3,
-        "tags": [
-            "194X",
-            "Identifiant Gaming-History différent sur Wikidata",
-            "Identifiant Killer List of Videogames identique sur Wikidata",
-            "Identifiant MobyGames différent sur Wikidata",
-            "Jeu Amstrad CPC"
-        ]
-    },
-    {
-        "title": "19 février",
-        "url": "https://fr.m.wikipedia.org/wiki/19_f%C3%A9vrier",
-        "intro": "Le 19 février est le 50e jour de l'année du calendrier grégorien (il en reste ensuite 315, 316 lorsqu'elle est bissextile).C'était généralement le 1er ventôse du calendrier républicain ou révolutionnaire français, officiellement dénommé jour du tussilage (une plante). 18 février - 19 février - 20...",
-        "estimated_duration": "34 min",
+        "title": "LA MACHINE ENIGMA : COMMENT TURING A TRUQUÉ LA GUERRE !",
+        "url": "https://www.youtube.com/watch?v=S44zUVf1J2E",
+        "intro": "Vidéo explicative sur la machine Enigma et le travail de déchiffrement mené par Alan Turing à Bletchley Park. Comment des mathématiciens ont-ils réussi à casser un code réputé inviolable, et quel impact cela a-t-il eu sur l'issue de la Seconde Guerre mondiale ? Un épisode clé à l'intersection de l'hi...",
+        "estimated_duration": "20 min",
         "estimated_difficulty": 2,
         "tags": [
-            "19 février",
-            "Catégorie Commons avec lien local identique sur Wikidata"
+            "Informatique",
+            "Histoire"
         ]
     },
     {
-        "title": "1er décembre",
-        "url": "https://fr.m.wikipedia.org/wiki/1er_d%C3%A9cembre",
-        "intro": "Le 1er décembre est le 335e jour de l'année du calendrier grégorien, 336e lorsqu'elle est bissextile. Il reste ensuite 30 jours avant la fin de l'année civile.C'est généralement le 11 frimaire du calendrier républicain ou révolutionnaire français, officiellement dénommé jour de la cire.Leur équiva...",
-        "estimated_duration": "67 min",
+        "title": "La machine de Turing, une révolution des mathématiques et de l'informatique",
+        "url": "https://www.youtube.com/watch?v=P66h8D5Lkwk",
+        "intro": "Vidéo de la chaîne Passe-science qui explore le concept fondateur de la machine de Turing : qu'est-ce qu'un calcul ? Qu'est-ce qu'un algorithme ? Et pourquoi ce modèle théorique imaginé en 1936 est-il encore au cœur de toute l'informatique moderne ? Une introduction rigoureuse et accessible à l'inform...",
+        "estimated_duration": "18 min",
+        "estimated_difficulty": 4,
+        "tags": [
+            "Informatique"
+        ]
+    },
+    {
+        "title": "La Suprématie Quantique de Google",
+        "url": "https://www.youtube.com/watch?v=KaRd_eB2qOA",
+        "intro": "Science Étonnante analyse l'annonce de Google en 2019 concernant la suprématie quantique : leur processeur aurait effectué en 200 secondes un calcul qui prendrait 10 000 ans à un superordinateur classique. Que signifie vraiment cette prouesse ? Quelles en sont les limites et les perspectives pour l'inf...",
+        "estimated_duration": "19 min",
+        "estimated_difficulty": 4,
+        "tags": [
+            "Informatique"
+        ]
+    },
+    {
+        "title": "Jeu de go et intelligence artificielle - À chaud !",
+        "url": "https://www.youtube.com/watch?v=P6eBraOUBLw",
+        "intro": "David Louapre (Science Étonnante) revient sur la victoire d'AlphaGo de DeepMind contre le champion du monde de go Lee Sedol en 2016, un tournant historique dans l'histoire de l'intelligence artificielle. Pourquoi le go était-il considéré comme un défi insurmontable pour les machines, et que nous appr...",
+        "estimated_duration": "8 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "Informatique"
+        ]
+    },
+    {
+        "title": "LENIA : Une nouvelle forme de vie mathématique !",
+        "url": "https://www.youtube.com/watch?v=PlzV4aJ7iMI",
+        "intro": "Science Étonnante présente Lenia, un automate cellulaire continu imaginé par Bert Chan qui génère des comportements d'une complexité stupéfiante, semblables à des formes de vie. Une exploration fascinante des liens entre mathématiques, informatique et émergence du vivant, à partir de règles d'une déconce...",
+        "estimated_duration": "21 min",
         "estimated_difficulty": 3,
         "tags": [
-            "1er décembre",
-            "Catégorie Commons avec lien local identique sur Wikidata"
+            "Informatique"
+        ]
+    },
+    {
+        "title": "5 batailles de la Première Guerre Mondiale - Nota Bene #17",
+        "url": "https://www.youtube.com/watch?v=a6jyG_cz48k",
+        "intro": "Nota Bene retrace cinq batailles emblématiques de la Première Guerre mondiale : la Marne, Verdun, la Somme, Gallipoli et le Jutland. Pourquoi ces affrontements ont-ils marqué si profondément les mémoires nationales ? Quelles stratégies, quelles erreurs, quels sacrifices ont façonné l'issue de la Gr...",
+        "estimated_duration": "20 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "Histoire"
+        ]
+    },
+    {
+        "title": "La Révolution Française de 1792 à 1799",
+        "url": "https://www.youtube.com/watch?v=3wdLZMkNTe4",
+        "intro": "Cette vidéo retrace la phase la plus radicale de la Révolution française : de la proclamation de la République en 1792 à la Terreur, puis au Directoire et au coup d'État de Bonaparte en 1799. Une décennie de chaos, d'idéaux et de violence qui a redessiné l'Europe et posé les bases de la démocratie mod...",
+        "estimated_duration": "15 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "Histoire"
+        ]
+    },
+    {
+        "title": "La guerre de Sept Ans, le 1er conflit mondial !",
+        "url": "https://www.youtube.com/watch?v=N01db5Y-3B8",
+        "intro": "Nota Bene explore la guerre de Sept Ans (1756–1763), considérée par certains historiens comme le véritable premier conflit mondial. Impliquant l'Europe, l'Amérique du Nord, l'Inde et les Caraïbes, elle voit s'affronter France, Angleterre, Prusse et Autriche dans une lutte pour la domination globale qu...",
+        "estimated_duration": "20 min",
+        "estimated_difficulty": 2,
+        "tags": [
+            "Histoire"
         ]
     }
 ]
